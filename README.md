@@ -12,4 +12,7 @@ Install gem dependencies with the following command:
 
 ## Usage
 
-TODO: Consider explaining your code here, or within the code itself via comments.
+To run all tests use the following command from root directory path:
+```
+rspec spec/
+```
